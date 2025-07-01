@@ -1,0 +1,6 @@
+@MyNearestCentersApi_HostAddress = http://localhost:5190
+
+GET {{MyNearestCentersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJSGoPweafQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kesav\\Documents\\CenterFinder\\MyNearestCentersApi\\MyNearestCentersApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kesav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\kesav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kesav\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kesav\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\kesav\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512",
+    "C:\\Users\\kesav\\.nuget\\packages\\system.net.http.json\\9.0.6\\system.net.http.json.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
